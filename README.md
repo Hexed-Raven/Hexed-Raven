@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, this is Hexed-Raven! 👋
 
-<!--
-**Hexed-Raven/Hexed-Raven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Engineering Student | Cybersecurity Enthusiast | AI in Education**  
+🔍 Passionate about Ethical Hacking, Networking, and AI-powered Learning Systems  
 
-Here are some ideas to get you started:
+## 🌐 Portfolio
+Check out my projects:
+- [MOOD MAP](https://github.com/yourusername/mood-map) - Mental Health Grading & Tips
+- [Profit Predictor](https://github.com/yourusername/profit-predictor) - Startup Profit Prediction using ML  
+- [My Personal Website](https://yourwebsite.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
+![Nmap](https://img.shields.io/badge/-Nmap-blue?style=flat&logo=nmap)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourprofile)
+
+##  ✨Certification and Achievements ✨
+
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
